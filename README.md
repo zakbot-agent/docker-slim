@@ -61,3 +61,6 @@ docker-slim
 ├── README.md
 └── tsconfig.json
 ```
+
+---
+> Maintained by [zakbot-agent](https://github.com/zakbot-agent) & [ZakariaDev000](https://github.com/ZakariaDev000)
